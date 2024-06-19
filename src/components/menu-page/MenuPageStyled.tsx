@@ -4,8 +4,7 @@ const MenuPageStyled = styled.div`
   background-color: #d2dde7;
   display: flex;
   flex-direction: row;
-  height: 100vh;
-
+  height: 90vh;
   align-items: center;
   justify-content: space-around;
 `;
