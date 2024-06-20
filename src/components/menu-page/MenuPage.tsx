@@ -29,7 +29,7 @@ function MenuPage() {
           </p>
         </MenuCard>
         <MenuCard>
-          <TitleStyled>Salada</TitleStyled>
+          <TitleStyled>Salad</TitleStyled>
           <ImageStyled src={salad}></ImageStyled>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere accusantium dicta impedit harum blanditiis
